@@ -1,6 +1,9 @@
 # 11기 라이징 테스트 인스타그램 (iOS) 
 <!-- Image 필요하다면 메인 이미지 하나 걸어놔도 좋을거 같아요 -->
 
+## 설계도
+- ERD : https://www.erdcloud.com/d/56r34bAdEBY5GgqYc
+- API명세서 : https://docs.google.com/spreadsheets/d/1a0Gop1x7u1M7z75zAUSoSO1fHcbOCiHh/edit?usp=sharing&ouid=105225537394558968885&rtpof=true&sd=true
 
 ## 주차 목표
 ### 1주차 목표 (1차 피드백전까지 - 22.11.29(화) 22:00, 22:30)
