@@ -3,7 +3,9 @@
 
 ## 설계도
 <img width="812" alt="인스타그램클론_아키텍쳐" src="https://github.com/alexgim961101/RC_InstaClone/assets/74600075/4c36a161-56e7-427c-95d3-788c2347d9a4">
+
 - ERD : https://www.erdcloud.com/d/56r34bAdEBY5GgqYc
+
 - API명세서 : https://docs.google.com/spreadsheets/d/1a0Gop1x7u1M7z75zAUSoSO1fHcbOCiHh/edit?usp=sharing&ouid=105225537394558968885&rtpof=true&sd=true
 
 ## 주차 목표
